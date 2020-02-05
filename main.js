@@ -40,7 +40,7 @@ var y = 20;
 function draw() {
   background(0);
   // put drawing code here
-  y++;
+   y++;
    if( y == 600 ){
      y = 8;
    }
